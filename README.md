@@ -17,4 +17,4 @@ Make sure you have the following installed before running the test cases:
 ## Project Structure
 - src/main/java/: Contains the source code of the main application.
 - src/test/java/: Contains the test cases using JUnit 4.
-- pom.xml: Holds external libraries JUnit.
+- pom.xml: Holds external library JUnit4
